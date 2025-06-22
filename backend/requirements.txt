@@ -1,0 +1,10 @@
+Django>=5.2
+psycopg2-binary
+djangorestframework
+django-filter
+gunicorn
+celery
+redis
+requests
+pytz
+python-dotenv
